@@ -6,7 +6,6 @@
 🌱 Currently learning and exploring:
 - Elixir & Phoenix Framework
 - Web development and backend systems
-- Trading systems and financial markets
 
 🚀 My goal is to become a skilled developer and achieve financial freedom through both tech and trading.
 
@@ -37,9 +36,6 @@
 📊 Currently Learning:
 - System design basics
 - Backend architecture
-- Trading strategies & technical analysis
-
-—
 
 ## 📊 GitHub Stats
 
@@ -59,12 +55,14 @@
 - Contribute to open-source projects
 - Improve problem-solving skills (DSA)
 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/Ashish Rai)
+LinkedIn X [Mastodon](https://mastodon.social/@Ashish Rai) email
 
 💻 Tech Stack:
-TypeScript JavaScript Elixir AWS Phoenix Framework Next JS Postgres
+JavaScript TypeScript Elixir Phoenix Framework TailwindCSS Next JS NodeJS Postgres Docker
 
 📊 GitHub Stats:
+
+
 
 
 
